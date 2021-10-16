@@ -2,6 +2,10 @@
 
 Tools to interacting with Solana NFTs.
 
+# Install
+
+`npm i --save @primenums/solana-nft-tools`
+
 # Examples
 
 You can find these examples [here](./examples/index.js).
@@ -11,7 +15,7 @@ const NFTs = require('solana-nft-tools');
 const web3 = require("@solana/web3.js");
 
 (async () => {
-  
+
   // Create connection
   const conn = new web3.Connection(
     web3.clusterApiUrl('mainnet-beta'),
