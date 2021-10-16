@@ -1,5 +1,5 @@
 {
-  "name": "solana-nft-tools",
+  "name": "@primenums/solana-nft-tools",
   "version": "0.0.1",
   "description": "Collection of helper functions for Solana NFTs.",
   "main": "lib/index.js",
