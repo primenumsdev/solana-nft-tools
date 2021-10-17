@@ -1,6 +1,6 @@
 # Solana NFT Tools
 
-Tools to interacting with Solana NFTs.
+Collection of helper functions for interacting with Solana NFTs.
 
 # Install
 
