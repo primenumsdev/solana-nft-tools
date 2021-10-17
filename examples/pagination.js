@@ -13,7 +13,7 @@ const web3 = require("@solana/web3.js");
   // Use this function with pagination and caching
   let page = 1;
   const perPage = 10;
-  const cacheTtlMins = 1; // Will keep the mint tokens cached for 6 seconds
+  const cacheTtlMins = 1; // Will keep the mint tokens cached for 1 minute
   let myNFTsPage1 = await NFTs.getNFTsByOwner(conn, walletAddr, page, perPage, cacheTtlMins);
   console.log('myNFTsPage1', myNFTsPage1);
 
