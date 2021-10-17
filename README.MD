@@ -2,6 +2,9 @@
 
 Collection of helper functions for interacting with Solana NFTs.
 
+[![NPM](https://nodei.co/npm/@primenums/solana-nft-tools.png)](https://npmjs.org/package/@primenums/solana-nft-tools)
+
+
 # Install
 
 `npm i --save @primenums/solana-nft-tools`
