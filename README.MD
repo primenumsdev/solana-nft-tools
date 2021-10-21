@@ -4,6 +4,7 @@ Collection of helper functions for interacting with Solana NFTs.
 
 [![NPM](https://nodei.co/npm/@primenums/solana-nft-tools.png)](https://npmjs.org/package/@primenums/solana-nft-tools)
 
+![NPM Package version](https://img.shields.io/npm/v/@primenums/solana-nft-tools)
 ![NPM Downloads](https://img.shields.io/npm/dw/@primenums/solana-nft-tools)
 ![NPM License](https://img.shields.io/npm/l/@primenums/solana-nft-tools)
 
