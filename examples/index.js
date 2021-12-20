@@ -18,6 +18,10 @@ const web3 = require("@solana/web3.js");
   let myNFT = await NFTs.getNFTByMintAddress(conn, mints[0]);
   console.log('myNFT', myNFT);
 
+  // If token is invalid or can't find parse NFT metadata, returns response with an error
+  myNFT = await NFTs.getNFTByMintAddress(conn, "CkV4VDyvtwPudc8qJCUx5C6fDHTjPz261kWsEQ7aBef8");
+  console.log('myNFT', myNFT);
+
   // Additional function to get all NFTs from wallet address
   let allMyNFTs = await NFTs.getNFTsByOwner(conn, walletAddr);
   console.log('allMyNFTs', allMyNFTs);
