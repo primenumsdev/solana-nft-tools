@@ -8,9 +8,6 @@ Collection of helper functions for interacting with Solana NFTs.
 ![NPM Downloads](https://img.shields.io/npm/dw/@primenums/solana-nft-tools)
 ![NPM License](https://img.shields.io/npm/l/@primenums/solana-nft-tools)
 
-Follow me on Twitter
-
-[![Twitter](https://img.shields.io/twitter/follow/grievoushead.svg?style=social&label=grievoushead)](https://twitter.com/grievoushead)
 
 # Install
 
