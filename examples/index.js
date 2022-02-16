@@ -10,7 +10,7 @@ const web3 = require("@solana/web3.js");
   );
 
   // Get all mint tokens (NFTs) from your wallet
-  const walletAddr = 'EaeLkUWHDXBRcLfvBXhczgavxPtCBASYYXB9rBrYN1b6';
+  const walletAddr = 'Bv26RX9m6tt99uxFoacNi841Dj4J4udGjYMdLitVMofE';
   let mints = await NFTs.getMintTokensByOwner(conn, walletAddr);
   console.log('mints', mints);
 
